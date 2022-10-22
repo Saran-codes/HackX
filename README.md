@@ -17,4 +17,4 @@ Problem Statement: Real-Time Parking View
  
  6.If the parking slot is already filled we cannot detect the qr code and hence all the qr codes we detect are of the vacant slots.
  
- 7.Now all the empty parking slots can be communicated to the user by using an appilication in which data of vacant parking slots and their    location(address) are updated in real-time.
+ 7.Now  the list of empty parking slots is sent to firebase and can be communicated to the user by using an appilication in which data of vacant parking slots and their location(address) are updated in real-time.
